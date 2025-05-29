@@ -45,6 +45,7 @@
 
   &__images {
     @include page-grid;
+
     margin-bottom: 24px;
 
     &-flex {
